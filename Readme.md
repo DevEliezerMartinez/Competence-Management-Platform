@@ -10,7 +10,7 @@ Topic: AI, Artificial Intelligence, Proyectos
 
 </aside>
 
-![Untitled](Untitled.png)
+![Untitled](./imgs/ipn.png)
 
 ## EmFuTech Objectives
 
